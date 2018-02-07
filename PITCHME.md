@@ -23,10 +23,6 @@
 •Secretos : almacenamiento cifrado de credenciales confidenciales
 
 
-=======
-¿Que es Netbox?
->>>>>>> 57795cdc19b928f61f49a7a302777dbba62f1f05
-
 ---?image=img/fondo.jpg
 
 The End :)
