@@ -10,7 +10,7 @@
 ---?image=img/fondo.jpg
 
 @title[hola]
-Hello, World!
+¿Que es Netbox?
 
 ---?image=img/fondo.jpg
 
