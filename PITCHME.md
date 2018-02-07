@@ -1,4 +1,4 @@
-?image=img/fondo.jpg
+---?image=img/fondo.jpg
 
 # Netbox
 
