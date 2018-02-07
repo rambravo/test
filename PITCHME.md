@@ -18,12 +18,15 @@
 
 ---?image=img/fondo.jpg
 
-# Quienes son beneficiados
+#### Quienes son beneficiados
 
-	Apertura
-	Tiendas
-	Terreno
-	Redes
+Apertura
+
+Tiendas
+
+Terreno
+
+Redes
 
 
 +++?image=img/fondo.jpg
