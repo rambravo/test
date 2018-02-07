@@ -5,7 +5,7 @@
 
 #### Aplicacion para ayudar a administrar y documentar redes.
 
-![Logo](logo.jpg)
+![Logo](logo.png)
 
 ---?image=img/fondo.jpg
 
@@ -18,16 +18,13 @@
 
 ---?image=img/fondo.jpg
 
-Quienes son beneficiados
+#Quienes son beneficiados
 
 Apertura
 Tiendas
 Terreno
 Redes
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
 
 +++?image=img/fondo.jpg
 
