@@ -11,7 +11,7 @@
 
 @title[hola]
 
-#¿Que es Netbox?
+# ¿Que es Netbox?
 
 ###### NetBox es una aplicación web de código abierto diseñada para ayudar a administrar y documentar redes de computadoras. Inicialmente concebido por el equipo de ingeniería de redes de Digital Ocean, NetBox se desarrolló específicamente para satisfacer las necesidades de los ingenieros de redes e infraestructuras. Abarca los siguientes aspectos de la gestión de red:
 •Administración de direcciones IP (IPAM) : redes y direcciones IP, VRF y VLAN
