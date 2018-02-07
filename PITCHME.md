@@ -5,7 +5,7 @@
 
 ![Logo](logo.jpg)
 
----
+--- ?image=img/logo.jpg
 
 @title[hola]
 Hello, World!
