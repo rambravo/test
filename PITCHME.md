@@ -1,6 +1,6 @@
 
 World!  ---  The End :)
-
+![Logo](logo.jpg)
 ---
 
 Hello, World!
